@@ -1,0 +1,26 @@
+ID;Nosaukums;Kategorija;Cena_EUR;Pieejams;Svars_g;Kalorijas_kcal;Pagatavosanas_laiks_min
+1;Pica;Pamatēdiens;8.00;Nē;450;950;20
+2;Sushi burgers;Pamatēdiens;8.00;Jā;300;620;25
+3;Cēzara salāti;Salāti;5.00;Nē;250;360;10
+4;Tiramisu;Deserts;4.00;Jā;150;420;5
+5;Sprite;Dzēriens;2.00;Jā;330;130;1
+6;Margarita pica;Pamatēdiens;7.50;Jā;400;850;20
+7;Pepperoni pica;Pamatēdiens;9.00;Jā;450;1050;25
+8;Vistas burgers;Pamatēdiens;6.50;Jā;280;570;15
+9;Liellopa burgers;Pamatēdiens;7.00;Nē;320;720;20
+10;Frī kartupeļi;Uzkoda;3.00;Jā;180;480;10
+11;Sīpolu gredzeni;Uzkoda;3.50;Jā;150;420;12
+12;Grieķu salāti;Salāti;5.50;Jā;280;310;10
+13;Tunča salāti;Salāti;6.50;Nē;260;340;12
+14;Vistas zupa;Zupa;4.00;Jā;350;220;15
+15;Tomātu zupa;Zupa;3.50;Jā;300;180;15
+16;Laša fileja;Pamatēdiens;12.00;Jā;250;530;30
+17;Cūkgaļas karbonāde;Pamatēdiens;9.50;Jā;350;780;25
+18;Spageti Boloņas mērcē;Pamatēdiens;8.50;Nē;400;690;25
+19;Lazanja;Pamatēdiens;8.00;Jā;350;650;30
+20;Šokolādes kūka;Deserts;4.50;Jā;160;490;5
+21;Siera kūka;Deserts;4.00;Nē;150;430;5
+22;Saldējums;Deserts;3.00;Jā;120;250;2
+23;Apelsīnu sula;Dzēriens;2.50;Jā;300;135;1
+24;Kafija;Dzēriens;2.00;Jā;200;5;3
+25;Zaļā tēja;Dzēriens;1.80;Jā;250;2;4
